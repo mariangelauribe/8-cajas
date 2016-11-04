@@ -6,11 +6,11 @@ div{
 	margin: 5px;
 }
 .fuera{
-	margin: 8px 5px 5px 5px;
+	margin: 8px 5px 5px 8px;
 	display: inline-block;
 }
 .dentro{
 	height: 120px;
-	width: 350PX;
+	width: 360PX;
 	margin: 5PX;
 }
