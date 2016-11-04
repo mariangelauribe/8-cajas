@@ -1,0 +1,16 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: #808080;
+	border: 1px solid #000000;
+	margin: 5px;
+}
+.fuera{
+	margin: 8px 5px 5px 5px;
+	display: inline-block;
+}
+.dentro{
+	height: 120px;
+	width: 350PX;
+	margin: 5PX;
+}
